@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   background-image: radial-gradient(circle, #051937, #001f5a, #00227d, #00209d, #2d0fbb);
+}
+header{
+    color: rgb(244, 249, 249);
+
+}
+nav{
+    color: rgb(232, 234, 234);
+}
+article{
+
+    color: rgb(245, 247, 247);
+}
+aside{
+    color: rgb(255, 255, 255);
+}
+section{
+    color: rgb(255, 255, 255)
+}
+h2{
+    color: white;
+}
+footer{
+    color: white;
+}
