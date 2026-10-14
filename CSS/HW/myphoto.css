@@ -1,4 +1,4 @@
-* {
+- {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,7 +29,7 @@ body {
     grid-template-rows: repeat(3, 1fr);
     padding: 15px;
     color: black;
-    font-size: 12px;
+    font-size: 28px; /* Increased font size here */
     font-weight: bold;
     pointer-events: none;
 }
